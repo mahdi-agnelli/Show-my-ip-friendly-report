@@ -15,5 +15,5 @@ web-ext build
 
 
 ## Notes
-Original Add-on https://github.com/TwiN/show-my-ip?tab=readme-ov-file
+Original Add-on https://github.com/TwiN/show-my-ip
 and special thanks to http://ip-api.com for letting me use their API as a fallback in case the main API goes down.
