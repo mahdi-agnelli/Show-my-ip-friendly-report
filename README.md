@@ -1,5 +1,6 @@
 # Show my ip & friendly report
-![Mozilla Add-on](https://img.shields.io/amo/users/show-ip)
+![Mozilla Original Add-on](https://img.shields.io/amo/users/show-ip)
+![Mozilla Add-on](https://img.shields.io/amo/users/show-my-ip-friendly-report)
 
 Add-on link (Firefox): https://addons.mozilla.org/en-US/firefox/addon/show-my-ip-friendly-report/
 
