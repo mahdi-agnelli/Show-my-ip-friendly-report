@@ -1,4 +1,6 @@
 # Show my ip & friendly report
+[![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue)](https://github.com/mahdi-agnelli/Show-my-ip-friendly-report/blob/main/LICENSE.md)
+[![Mozilla Add-on](https://img.shields.io/amo/v/show-my-ip-friendly-report.svg)](https://addons.mozilla.org/en-US/firefox/addon/show-my-ip-friendly-report/)
 ![Mozilla Original Add-on](https://img.shields.io/amo/users/show-ip)
 ![Mozilla Add-on](https://img.shields.io/amo/users/show-my-ip-friendly-report)
 
